@@ -1,0 +1,33 @@
+
+.title
+{
+    
+    font-size: 50px;
+    font-family: Impact, Arial Black, Courier, Verdana, Arial;
+}
+.undertitle
+{
+    
+    font-size: 100px;
+    font-family: Arial Black, Verdana, Arial;
+    color: white;
+}
+body
+{
+    background-color: rgb(72, 72, 255);
+    text-align: center;
+}
+footer
+{
+    text-align: justify;
+    border: 3px double greenyellow;
+    border-radius: 7px;
+}
+.undertitle:hover
+{
+    text-shadow: 6px 6px 0px red;
+}
+.discord
+{
+    font-family: Arial Black, Verdana, Arial;
+}
